@@ -37,7 +37,6 @@ body {
 }
 
 .header section ul li {
-    display: inline-block;
     float: right;
     margin-left: 25px;
 }
