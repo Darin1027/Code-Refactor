@@ -1,49 +1,39 @@
-# code-refractor-challenge
+# Code-refractor-challenge
 
-Cleaning up code, provide semantics tags in place of div tags, ensure site is 100% operation after all updates.
+#### By _**Darin Palombo**_
 
-<!-- this is from BCS module requirements -->
+#### _Search engine optimization_
 
-!!!!User Story!!!!
+## Technologies Used
 
-AS A marketing agency
--I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+- HTML
+- CSS
+- HUMAN BRAIN
+- COFFEE
 
-!!!!Acceptance Criteria!!!!!
+## Description
 
--GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positionin
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+_THIS WONDERFUL APPLICATION IS USED TO PROVIDE STUDENTS WITH ANXIETY AND SELF DOUBT. IN ALL ACTUALITY THAT WAS ALWAYS THERE AND THIS APP SIMPLY AND AMAZINGLY DOESNT ALLOW THE STUDENT ANY SHELTER FROM THE FEELING OF AN AVALANCE OF INFORMATION SMASHING THEM IN THERE NEWBIE FACE!!_
 
-<!-- this is also from BCS module requiremnts -->
+## Setup/Installation Requirements
 
-!!!!!!Grading Requirements!!!!!!
+- _Open the file_
+- _Click on the links_
+- _Be amazed_
+- _Collect the pieces of your mind that have been blown away_
+- _Have a great day!!!!_
 
-!!!!!!This Challenge is graded based on the following criteria!!!!!:
+- ![Image Site]("C:\Users\dplb1\OneDrive\Desktop\refractor-challenge\code-refractor-challenge\assets\images\darin1027.github.io_code-refractor-challenge_.png")
 
--Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following code improvements:
+## Known Bugs
 
--Deployment: 32%
-Application deployed at live URL.
-Application loads with no errors.
-Application GitHub URL submitted.
-GitHub repository that contains application code.
+- _Any known issues_
+- _should go here_
 
--Application Quality: 15%
+## License
 
--Repository Qualit: 13%
-Repository has a unique name.
-Repository follows best practices for file structure and naming conventions.
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-Repository contains multiple descriptive commit messages.
-Repository contains a quality README file with description, screenshot, and link to deployed application.
+_{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
+
+Copyright (c) _date_ _author name(s)_
+
+[def]: "C:\Users\dplb1\OneDrive\Desktop\darin1027.github.io_code-refractor-challenge_.png"
