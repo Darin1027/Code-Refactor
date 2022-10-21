@@ -23,17 +23,12 @@ _THIS WONDERFUL APPLICATION IS USED TO PROVIDE STUDENTS WITH ANXIETY AND SELF DO
 - _Collect the pieces of your mind that have been blown away_
 - _Have a great day!!!!_
 
-- ![Image Site]("C:\Users\dplb1\OneDrive\Desktop\refractor-challenge\code-refractor-challenge\assets\images\darin1027.github.io_code-refractor-challenge_.png")
+- ![Image Site](assets/images/darin1027.github.io_code-refractor-challenge_.png)
 
 ## Known Bugs
 
-- _Any known issues_
-- _should go here_
+- _No issues_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
-
-[def]: "C:\Users\dplb1\OneDrive\Desktop\darin1027.github.io_code-refractor-challenge_.png"
+_{refer to license in repo.}_
