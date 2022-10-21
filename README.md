@@ -64,5 +64,4 @@ Repository contains a quality README file with description, screenshot, and link
 
 
 
-Make sure you add alt attributes for elements that need them!
 Take a look at CSS file and if there is repetitive selectors,  see if you can combine the declarations.  Make the CSS file less repetitive.
