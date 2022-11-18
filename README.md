@@ -1,6 +1,6 @@
-#### _Search engine optimization_
+#### _Horiseon_
 
-# Code-refactor-HTML-CSS
+# Code-Refactor-HTML-CSS
 
 #### Completed by: _**Darin Palombo**_
 
