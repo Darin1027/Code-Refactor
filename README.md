@@ -1,6 +1,6 @@
 #### _Search engine optimization_
 
-# Code-refractor-challenge
+# Code-refactor-HTML-CSS
 
 #### Completed by: _**Darin Palombo**_
 
