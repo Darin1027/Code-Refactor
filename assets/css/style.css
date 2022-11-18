@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+.asideBox {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,23 +86,23 @@ p {
     background-color: #2589bd;
 }
 /* merged classes, cleaning code */
-.benefit-brand, .benefit-cost, .benefit-lead {
+.asideCard {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /* merged classes, cleaning code */
-.benefit-cost h3, .benefit-brand h3, .benefit-lead h3 {
+.asideCard h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* merged classes, cleaning code */
-.benefit-cost img, .benefit-brand img, .benefit-lead img {
+.asideCard img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 /* merged classes, cleaning code */
-.social-media-marketing, .online-reputation-management, .search-engine-optimization {
+.sectionCard {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 /* merged classes, cleaning code */
-.social-media-marketing img, .online-reputation-management img, .search-engine-optimization img {
+.sectionCard img {
     max-height: 200px;
 }
 /* merged classes, cleaning code */
-.social-media-marketing h2, .online-reputation-management h2, .search-engine-optimization h2 {
+.sectionCard h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
